@@ -1,6 +1,7 @@
-# Coinbase Exchange Order Book
+# GDAX Order Book
 
 Based on https://github.com/yoblin/PyLimitBook
+and https://github.com/PierreRochard/coinbase-exchange-order-book
 
 Use real money at your own risk!
 
